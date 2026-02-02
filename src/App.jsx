@@ -8,7 +8,7 @@ function App() {
 
   
   return (
-    <Web />
+    <Web name="ibrahim"/>
   );
 
 }
