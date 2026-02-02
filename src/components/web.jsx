@@ -1,8 +1,8 @@
-function web(props) {
+function Web(props) {
 
     return (
-
+        <h1>Hello world</h1>
     );
 }
 
-export default List;
+export default Web;
